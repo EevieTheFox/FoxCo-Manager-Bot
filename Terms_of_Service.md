@@ -1,3 +1,9 @@
+---
+layout: default
+title: FoxCo Manager Bot Terms of Service
+permalink: /terms/
+---
+
 # FoxCo Manager Bot Terms of Service
 
 **Effective date:** August 2, 2026  
