@@ -6,7 +6,7 @@ This repository hosts the official public documentation for **FoxCo Manager Bot*
 
 | File | Purpose |
 |---|---|
-| `index.md` | Public landing page for the legal site |
+| `index.html` | Public landing page for the legal site |
 | `terms.md` | FoxCo Manager Bot Terms of Service |
 | `privacy.md` | FoxCo Manager Bot Privacy Policy |
 | `README.md` | Repository information and publishing instructions |
