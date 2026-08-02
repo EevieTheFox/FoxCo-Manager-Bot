@@ -1,3 +1,9 @@
+---
+layout: default
+title: FoxCo Manager Bot Privacy Policy
+permalink: /privacy/
+---
+
 # FoxCo Manager Bot Privacy Policy
 
 **Effective date:** August 2, 2026  
